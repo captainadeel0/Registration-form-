@@ -95,11 +95,16 @@ a:hover {
     font-size: 13px;
     color: #333;
     font-family: "Poppins-Regular"; }
-  .form-control:-ms-input-placeholder {
+ 
+    .form-control:-ms-input-placeholder {
+ 
     font-size: 13px;
     color: #333;
     font-family: "Poppins-Regular"; }
   .form-control:-moz-placeholder {
+
+
+
     font-size: 13px;
     color: #333;
     font-family: "Poppins-Regular"; }
@@ -114,8 +119,8 @@ select {
 
 button {
   border: none;
-  width: 164px;
-  height: 51px;
+  width: 104px;
+  height: 41px;
   margin: auto;
   margin-top: 40px;
   cursor: pointer;
